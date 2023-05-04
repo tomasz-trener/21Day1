@@ -10,6 +10,7 @@ namespace P12BreakeAndContinue
     {
         static void Main(string[] args)
         {
+           
             // break
             //string equation = "10 200";
             ////012345                
