@@ -43,7 +43,7 @@ namespace A10Loops
                 }
                 index++;
             }
-            // we have implement a custom function that works silimary to the build-in "idnexof"
+            // we have implemented a custom function that works silimary to the build-in "idnexof"
 
 
             Console.ReadKey();
