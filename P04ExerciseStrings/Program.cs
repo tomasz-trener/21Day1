@@ -34,6 +34,24 @@ namespace P04ExerciseStrings
             //
             //https://github.com/tomasz-trener/21Day1
 
+            Console.WriteLine("--- Part 2 ------");
+
+            //  report1.Substring(2, 3);
+            //  report1.ToUpper();
+            Console.WriteLine("Please enter two numbers separeted  by a space:");
+
+            string numbers = Console.ReadLine(); //200 10
+                                                 //0123
+            int spacePosition =  numbers.IndexOf(" "); // position of the space = 3
+
+            int newNumber1 =  Convert.ToInt32(numbers.Substring(0, spacePosition));
+            int newNumber2 = Convert.ToInt32(numbers.Substring(spacePosition +1));
+
+            int newSum = newNumber1 + newNumber2;
+
+            Console.WriteLine(newSum);
+
+            Console.ReadKey();
         }
     }
 }
