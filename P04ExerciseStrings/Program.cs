@@ -30,9 +30,9 @@ namespace P04ExerciseStrings
             string report3 = string.Format("The result {0} consists of {1} digits",sum,digitCount);
 
             Console.WriteLine(report3);
-           // Console.WriteLine(sumAsString);
-
-
+            // Console.WriteLine(sumAsString);
+            //
+            //https://github.com/tomasz-trener/21Day1
 
         }
     }
