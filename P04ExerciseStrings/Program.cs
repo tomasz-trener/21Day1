@@ -49,6 +49,8 @@ namespace P04ExerciseStrings
 
             int newSum = newNumber1 + newNumber2;
 
+            //string[] arrayResult = numbers.Split(' '); // not at this moment 
+
             Console.WriteLine(newSum);
 
             Console.ReadKey();
