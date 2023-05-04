@@ -38,6 +38,8 @@ namespace P08ExercieseConditionalStatements
             else
                 Console.WriteLine("Cannot calculate value");
 
+            //szkolenia@tomaszles.pl 
+
 
             Console.ReadKey();
         }
