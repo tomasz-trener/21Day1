@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B02_EXWebClient", "B02_EXWe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B03ErrorHandling", "B03ErrorHandling\B03ErrorHandling.csproj", "{53628ABD-3681-4FF4-BBEC-31444065C4BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13Homework", "P13Homework\P13Homework.csproj", "{AE98FEB7-45DA-4236-B561-0C9792AFD156}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{53628ABD-3681-4FF4-BBEC-31444065C4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53628ABD-3681-4FF4-BBEC-31444065C4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53628ABD-3681-4FF4-BBEC-31444065C4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE98FEB7-45DA-4236-B561-0C9792AFD156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE98FEB7-45DA-4236-B561-0C9792AFD156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE98FEB7-45DA-4236-B561-0C9792AFD156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE98FEB7-45DA-4236-B561-0C9792AFD156}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
